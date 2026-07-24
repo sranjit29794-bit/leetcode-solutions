@@ -12,10 +12,7 @@ public:
                 x/=10;
             }
 
-            if (original==revNum){
-                return true;
-            }
-            return false;
+            return original==revNum;
         }
     }
 };
