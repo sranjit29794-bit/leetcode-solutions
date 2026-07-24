@@ -1,0 +1,40 @@
+public:
+int reverse(int x)
+{
+   ( int sign;  
+    if (x >= 0)
+    {
+        sign = 1;   ....This is not required
+    }
+    else
+    {
+        sign = -1;
+    }
+   )
+
+    x = abs(x); ..........(1)
+
+    int revNum = 0;  ............(2)
+    while (abs(x))
+    {
+        revNum = (revNum * 10) + (x % 10);
+        x /= 10;
+    }
+    if (revNum >= INT_MIN && revNum <= INT_MAX)
+    {
+        return sign * revNum; ........also wrong for INT_MIN
+    }
+    else
+    {
+        return 0;
+    }
+}
+}
+;
+
+mistakes:
+
+1. abs(x) This is much bigger blunder because  if we change int min sign it will overflow as positive no. max is 2^31-1 not equl to |-2^31|.
+for avoiding this we will keep the sign same 
+
+2.int revNum=0;; This is also big blunder because after reversing no. it can overflow so we need to make long int .
