@@ -1,0 +1,23 @@
+class Solution {
+public:
+    bool isPalindrome(int x) {
+        
+        long int revNum=0; ...for preventing overflowing 
+        int original=x; .... as original x become 0 after while loop
+        if(x<0){
+            return false;
+        }else{
+            while(x!=0){
+                revNum=(revNum*10)+(x%10);
+                x/=10;
+            }
+
+        //     if(revNum==original){
+        //         return true;
+        //     }
+        // }
+        //     return false; .....if both bool values not returned fn overflow because we miss case if its false
+        return revNum==original; .......above is shit use this it is concise, readable and easy to debug
+    }
+    }
+};
