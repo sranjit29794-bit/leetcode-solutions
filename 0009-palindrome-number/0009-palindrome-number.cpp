@@ -15,7 +15,7 @@ public:
             if(revNum==original){
                 return true;
             }
-            return false;
         }
+            return false;
     }
 };
