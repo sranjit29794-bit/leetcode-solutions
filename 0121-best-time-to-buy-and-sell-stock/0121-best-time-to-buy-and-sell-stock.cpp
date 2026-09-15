@@ -25,18 +25,18 @@ public:
 };
 
 //method 2
-class Solution {
-public:
-    int maxProfit(vector<int>& prices) {
-        int minprice=INY_MAX:
-        int maxProfit=0;
+// class Solution {
+// public:
+//     int maxProfit(vector<int>& prices) {
+//         int minprice=INY_MAX:
+//         int maxProfit=0;
 
-        for(auto x:prices){
+//         for(auto x:prices){
 
-            if(minPrice<x) minPrice=x;
+//             if(minPrice<x) minPrice=x;
             
-            if(x-minPrice>maxProfit) maxProfit=x-minPrice;
-    }
+//             if(x-minPrice>maxProfit) maxProfit=x-minPrice;
+//     }
 
-        return maxProfit;
-};
+//         return maxProfit;
+// };
