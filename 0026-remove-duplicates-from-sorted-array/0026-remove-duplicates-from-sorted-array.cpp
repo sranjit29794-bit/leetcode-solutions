@@ -1,23 +1,15 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        vector<int>expectedNums;
+        int k=1;
 
-        int key=INT_MIN;
-        int count=0;
-
-        for(auto x:nums){
-
-            if(x!=key) {
-                expectedNums.push_back(x);
-                key=x;
-                count++;
-
-            }
+        for(int i=1;i<nums.size();i++){
+            if(nums[i]!=nums[i-1]){
+                nums[k]=nums[i];            
+                k+=1;
+                }
         }
 
-        nums=expectedNums;
-
-        return count;
+        return k;
     }
 };
