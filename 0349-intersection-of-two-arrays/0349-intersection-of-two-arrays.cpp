@@ -2,13 +2,14 @@ class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
         unordered_set<int>set1(nums1.begin(),nums1.end());
-        unordered_set<int>set2(nums2.begin(),nums2.end());
-        vector<int>num;
-        if(nums1.size()>nums2.size()) swap(set1,set2);
+        vector<int> ans;
 
-        for(auto x:set1){
-            if(set2.count(x)) num.push_back(x);
+        for(auto x:nums2){
+            if(set1.count(x)){
+                 ans.push_back(x);
+                 set1.erase(x);
+            }
         }
-        return num;
+        return ans;
     }
 };
