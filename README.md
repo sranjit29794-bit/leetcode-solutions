@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
