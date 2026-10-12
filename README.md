@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Array
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -105,11 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
