@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [3110-score-of-a-string](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
 | ------- |
