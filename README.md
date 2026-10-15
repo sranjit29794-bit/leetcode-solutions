@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
