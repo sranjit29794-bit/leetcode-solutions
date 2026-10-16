@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2769-find-the-maximum-achievable-number](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 ## Dynamic Programming
 |  |
 | ------- |
