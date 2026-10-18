@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/3110-score-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3467-transform-array-by-parity](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3838-weighted-word-mapping](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,4 +144,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3838-weighted-word-mapping](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
