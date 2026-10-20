@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Dynamic Programming
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3467-transform-array-by-parity](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1512-number-of-good-pairs](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
