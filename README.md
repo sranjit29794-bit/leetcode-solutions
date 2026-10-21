@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3783-mirror-distance-of-an-integer](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
