@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1108-defanging-an-ip-address](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Array
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3467-transform-array-by-parity](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3838-weighted-word-mapping](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
