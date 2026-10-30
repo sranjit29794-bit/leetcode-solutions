@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1920-build-array-from-permutation](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3838-weighted-word-mapping](https://github.com/sranjit29794-bit/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
